@@ -6,7 +6,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=trippycat423&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=trippycat423&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=trippycat423&theme=tokyonight&hide_border=true)<br/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 

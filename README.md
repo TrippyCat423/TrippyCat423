@@ -8,6 +8,9 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=trippycat423&theme=tokyonight&hide_border=true)<br/>
 
+---
+[![](https://visitcount.itsvg.in/api?id=trippycat423&icon=1&color=5)](https://visitcount.itsvg.in)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--

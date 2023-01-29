@@ -13,7 +13,7 @@ const TrippyCat = {
     },
     webApp: {
       frameworks: ['VUE', 'React', 'Svelte'],
-      style: ['PrimeVue', 'Bootstrap', 'SASS']
+      style: ['PrimeVue', 'Bootstrap', 'SASS', 'Tailwind']
     },
     mobileApp: {
       native: ['Android Development', 'IOS Development'],

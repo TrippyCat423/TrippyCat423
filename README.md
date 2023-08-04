@@ -12,14 +12,14 @@ const TrippyCat = {
       php: ['Vanilla PHP']
     },
     webApp: {
-      frameworks: ['VUE', 'React', 'Svelte'],
+      frameworks: ['VUE', 'React', 'Svelte', 'Astro'],
       style: ['PrimeVue', 'Bootstrap', 'Tailwind']
     },
     mobileApp: {
       native: ['IOS', 'Android'],
       web: ['Capacitor', 'Cordova']
     },
-    devOps: ['AWS', 'Docker', 'DigitalOcean', 'Azure'],
+    devOps: ['AWS', 'Docker', 'Azure'],
     databases: ['Oracle', 'Postgres', 'Mongo', 'MySql']
   },
   architecture: ['Microservices', 'PWA', 'SPA', 'Serverless'],
